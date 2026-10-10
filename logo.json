@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "aegistab:font/logo.png",
+      "ascent": 7,
+      "height": 56,
+      "chars": ["\uE000"]
+    }
+  ]
+}
